@@ -1,0 +1,51 @@
+
+#header {
+	background-color: #f4f4f4;
+	text-align: center;
+	height: 98px;
+	width: 100%;
+	font-size: 2.17em;
+	line-height: 3;
+	color:#e78a53;
+	font-family: Arial;
+}
+/*input[type=text], select {
+	width: 8%;
+	border: 3px solid #ccc;
+	padding: 6px 20px;
+	margin: 8px 0;
+	text-align: center
+	border-radius: 8px;
+	font-size: large;*/
+}
+/*label {
+	color: #f4f4f4;
+	font-size: large;*/
+}
+/*#country {
+	display: inline-block;
+}*/
+.yname {
+	font-size: xx-large;
+	float: left;
+	width: 45%;
+}
+input[name="name"] {
+	float: left;
+	width: 30%;
+}
+div {
+	background-color: #406a80;
+	height: 60%;
+	padding: 10px;
+}
+input[type=submit], select {
+	background-color: #dbdbdb;
+	border: 1px solid black;
+	margin: 5px;
+	padding: 5px;
+	width: 10%;
+	font-size: large;
+	font-family: arial;
+	border-radius: 8px;
+}
