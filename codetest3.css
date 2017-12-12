@@ -1,0 +1,58 @@
+body {
+	background-color: ;
+} 
+#wrapper {
+	border: 1px solid black;
+	width: 100%;
+}
+#header {
+	background-color: #f4f4f4;
+	text-align: center;
+	height: 95px;
+	width: 100%;
+	font-size: 2.17em;
+	line-height: 2;
+	color:#e78a53;
+	font-family: Arial;
+}
+section {
+	background-color: #38a18c;
+	padding-top:  10px;
+	text-align: center;
+	line-height: 0;
+	height: 100%;
+	padding: 10px;
+}
+img {
+	padding: 30px;
+	margin:  30px;
+	padding-top: 0px;
+}
+ h1 {
+	font-size: 40px;
+	color: #2d4452;
+	margin: 10px; 
+	font-family: Arial; 
+}
+input[type=submit] {
+	background-color: yellow;
+	position: center;
+}
+.button {
+	float: center;
+	font-size: 24px;
+	padding: 12px;
+	border-radius: 12px;
+	font-family: arial;
+	padding-top: 10px;
+	border: 1px solid black;
+	width: 15%;
+}
+article {
+	background-color: #f4f4f4;
+	text-align: center;
+	padding: 10px;
+	height: 90px;
+	line-height: 6;
+}
+
